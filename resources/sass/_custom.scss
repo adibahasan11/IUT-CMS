@@ -1,0 +1,72 @@
+body{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#C5C1C0;
+    font-family: 'Arial';  
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background:#1A2930;  
+        border-radius: 25px ;     
+}
+.button{
+    text-align: center;
+}
+.remember{
+    text-align: center;
+}  
+h2{  
+    text-align: center;  
+    color:#1A2930;  
+    padding: 20px;  
+}  
+label{  
+    color: #F7CE3E;  
+    font-size: 17px;
+}  
+#Uname{  
+    width: 350px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 10px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 350px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 10px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 150px;  
+    height: 40px;    
+    border-radius: 20px;  
+    padding-left: 7px;
+    font-size: 18px;
+    border: 2px solid #C5C1C0; 
+    background-color:#1A2930;  
+    color: #C5C1C0;
+    align-self: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+}
+#log:hover{
+    border:#C5C1C0;
+    background-color:#C5C1C0;  
+    color: #1A2930;
+}
+span{  
+    color: #F7CE3E;  
+    font-size: 17px;  
+}  
+a{  
+    float: center;
+    color: #F7CE3E;    
+}  
